@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KanishkaKelkar
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Statistics
+- 🌱 I’m currently Pursuing Masters in Data Science & Business Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... Email id: kelkarkanishka@gmail.com
 
